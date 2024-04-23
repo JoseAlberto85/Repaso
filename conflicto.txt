@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 este fichero es para el conflicto de rama2 de jose-jvt
+=======
+puipupupupuppupupup
+asdfasdfasdfagit
+>>>>>>> 5ae6285bb78ef6d953ac2e916981b8b90712d2ca
