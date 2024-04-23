@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 asdfasfasf
 asdfasdfas
+=======
+este es el conflicto para rama3 de jose-jvt
+>>>>>>> 91a5ba761d19e3f1d770ba4fa1411362c1c00f1c
